@@ -1,14 +1,13 @@
 {
-  "name": "javascripttraning_20261031",
+  "name": "javascripttrainingforplaywrightsa20267",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "types" :"module",
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Megha Agarwal",
   "license": "ISC",
-  "type": "commonjs"
+  "description": ""
 }
